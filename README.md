@@ -6,9 +6,9 @@
 
 ## Overview
 
-Financial data transformation workflow developed to prepare accounting reports exported from Holded for financial analysis and Power BI dashboards.
+Financial data transformation workflow developed to convert accounting reports exported from Holded into structured datasets ready for financial analysis and Power BI dashboards.
 
-The project processes raw accounting data from CSV files using Python, transforming and structuring financial information into analysis-ready datasets.
+The project processes raw Balance Sheet and financial reports from CSV files using Python, cleaning, transforming and restructuring accounting information into an analytical format suitable for Business Intelligence reporting.
 
 The final output is integrated into Power BI to create interactive dashboards focused on financial reporting and business performance analysis.
 
