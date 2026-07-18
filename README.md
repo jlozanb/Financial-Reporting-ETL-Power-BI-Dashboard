@@ -1,2 +1,77 @@
-# Holded-Financial-ETL-Power-BI-Dashboard
-ETL pipeline to transform Holded accounting data with Python and prepare financial datasets for Power BI dashboards.
+# Holded Financial ETL & Power BI Dashboard
+
+## Overview
+
+Financial data transformation workflow developed to prepare accounting reports exported from Holded for financial analysis and Power BI dashboards.
+
+The project processes raw accounting data from CSV files using Python, transforming and structuring financial information into analysis-ready datasets.
+
+The final output is integrated into Power BI to create interactive dashboards focused on financial reporting and business performance analysis.
+
+## Features
+
+- Financial data extraction from Holded CSV exports
+- Data cleaning and transformation using Python
+- Standardization of accounting information
+- Preparation of structured datasets for Power BI
+- Financial reporting dashboard development
+- KPI visualization and business performance analysis
+
+## Technologies
+
+- Python
+- Pandas
+- Power BI
+- ETL
+- Financial Reporting
+- Data Transformation
+
+## Workflow
+
+- Financial reports are exported from Holded in CSV format.
+- Raw accounting data is processed and cleaned using Python.
+- Financial datasets are transformed into a structured format suitable for analysis.
+- The processed data is loaded into Power BI.
+- Interactive dashboards are created to monitor financial performance indicators.
+
+## Dashboard
+
+The Power BI dashboard provides insights into:
+
+- Profit & Loss analysis
+- Balance Sheet overview
+- Revenue and expense evolution
+- Financial KPIs
+- Business performance indicators
+
+## Project Purpose
+
+The objective of this project was to develop a structured ETL workflow capable of transforming raw accounting data from Holded into clean and reusable datasets for Business Intelligence reporting.
+
+The project aims to improve data preparation processes, reduce manual transformation tasks and enable more efficient financial analysis through Power BI.
+
+## Repository Contents
+
+```
+├── Data
+│ └── holded_financial_report_raw.csv
+│ └── Readme.md
+│
+├── Python_Code
+│ ├── Balance_Transformation.py
+│ └── Readme.md
+│
+├── PowerBI
+│ └── Dashboard.pbix
+│ └── Readme.md
+
+│
+└── README.md
+```
+
+## Author
+
+Jorge Lozano
+
+
+
