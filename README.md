@@ -57,18 +57,38 @@ The project aims to improve data preparation processes, reduce manual transforma
 ## Repository Contents
 
 ```
-├── Data
-│ └── holded_financial_report_raw.csv
+├── Code_Python
+│ ├── Balance_Script.ipynb
+│ └── Income_Script.ipynb
 │ └── Readme.md
 │
-├── Python_Code
-│ ├── Balance_Transformation.py
-│ └── Readme.md
+├── Data_Original
+│  ├── Balance
+│  │   └── Balance_2025.csv
+│  │   └── Balance_2024.csv
+│  │   └── Balance_2023.csv
+│  │   └── Readme.md
+│  ├── Income
+│  │   └── Income_2025.csv
+│  │   └── Income_2024.csv
+│  │   └── Income_2023.csv
+│  │   └── Readme.md
+│
+├── Data_Transformed
+│  ├── Balance
+│  │   └── Balance_2025_Transformed.csv
+│  │   └── Balance_2024_Transformed.csv
+│  │   └── Balance_2023_Transformed.csv
+│  │   └── Readme.md
+│  ├── Income
+│  │   └── Income_2025_Transformed.csv
+│  │   └── Income_2024_Transformed.csv
+│  │   └── Income_2023_Transformed.csv
+│  │   └── Readme.md
 │
 ├── PowerBI
-│ └── Dashboard.pbix
-│ └── Readme.md
-
+│ └── Balance_Dashboard.png
+│ └── Income_Dashboard.png
 │
 └── README.md
 ```
