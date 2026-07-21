@@ -1,0 +1,148 @@
+Año,Periodo,Partida,Subpartida,Grupo_id,Grupo,SubGrupo_id,SubGrupo,Cuenta_id,Cuenta,Subcuenta_id,Subcuenta,Valor
+2025,Anual,ACTIVO,Activo No Corriente,I,Inmovilizado intangible,5,Aplicaciones informáticas,206,Aplicaciones informáticas,20600001,CASH LESS DESARROLLO SOFTWARE,718791.0
+2025,Anual,ACTIVO,Activo No Corriente,I,Inmovilizado intangible,5,Aplicaciones informáticas,2806,Amortización acumulada de aplicaciones informáticas,28060001,AMORTACUMCASH LESS,-663256.75
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600001,5 ASIENTOS RECLINABLES,1650.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600002,5 MESAS OFICINA LINEAL,1061.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600003,5 CAJONERAS RODANTES,956.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600004,4 ARCHIVADORES VERTICALES,1460.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600005,6 ARCHIVADORES METALICOS,1507.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600006,2 ARMARIOS ALTOS DE PUERTAS,700.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600007,4 PUF REDONDO O CUADRADO,1112.49
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600008,MESA DE JUNTAS DE MEDIDAS 200X120 SOBRE LAMINADO Y PIES METALICOS,990.8
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600009,2 CONJUNTO DE 4 MESAS DE MEDIDAS 120120,2641.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600010,MESA DE 120X80 SOBRE LAMINADOS Y PIES METALICOS,672.2
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600011,2 MESAS ALTAS DE MEDIDAS 120X80X105 SOBRE LAMINADO Y PIES METALICOS,1330.6
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600012,6 SILLONES GIRATORIOS EN ACERO CROMADO,1152.5
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600013,4 TABURETES REDONDOS EN ACERO CROMADO,1056.8
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600014,9 SILLAS DE OFICINA TAPIZADO TRANSPIRABLE EDICION OSCURA,2038.7
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600015,4 MESAS DE 120X80 SOBRE LAMINADO Y PIES METALICOS,1875.3
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,216,Mobiliario,21600016,4 SILLAS DE OFICINA TAPIZADO TRANSPIRABLE EDICION OSCURA,1056.8
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700001,AMORT DE PORTATIL PREMIUM ULTRALIGERO P_RLH,4947.9
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700002,AMORT DE TELEFONO MOVIL GAMA MEDIA_RLH,1135.01
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700003,AMORT DE PORTATIL GAMA BASICA PORTATIL_ILA,880.13
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700004,AMORT DE PORTATIL GAMA BASICA PORTATIL_MT,880.13
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700005,AMORT DE PORTATIL COMPACTO GAMA BASICA PORTATIL_LVP,916.8
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700006,AMORT DE MONITORES PANTALLA VISUAL ANCHA_RLH,238.34
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700007,AMORT DE MONITORES PANTALLA VISUAL ANCHA_LVP,238.34
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700008,AMORT DE MONITOR PANTALLA VISUAL ANCHA_AFLC,238.34
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700009,AMORT DE MONITOR PANTALLA VISUAL ANCHA_DBB,257.78
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700010,AMORT DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_MS,903.09
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700011,AMORT DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_DBB,1373.43
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700012,AMORT DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_KCS,1373.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700013,AMORT DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_AFLC,1373.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700014,AMORT DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_AGD,1373.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700015,AMORT DE PORTATIL GAMA BASICA PORTATIL_SAG,1098.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700016, AMORT DE PORTATIL COMPACTO GAMA BASICA PORTATIL_NMF,1012.93
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700017,AMORT DE ORDENADOR SOBREMESA GAMA ALTA_RPL,2493.56
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700018,AMORT DE PORTATIL GAMA BASICA PORTATIL_MCL,973.64
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700019,AMORT DE MONITOR PANTALLA VISUAL ANCHA_KSV,232.85
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700020,AMORTIZACO PORTATIL SENCILLO LVP,1100.17
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,217,Equipos para procesos de información,21700021,AMORT TELEFONO MOVIL GAMA ALTA 512GB-YPT,2474.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160001,AMORTACUM5 ASIENTOS RECLINABLE,-795.31
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160002,AMORTACUM5 MESAS OFICLINEAL,-511.75
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160003,AMORTACUM5 CAJONERAS RODANTES,-460.35
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160004,AMORTACUM4 ARCHIV VERTICAL,-703.33
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160005,AMORTACUM 6 ARCHIVMETAL,-726.39
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160006,AMORTACUM 2 ARMARIOS ALTOS DE PUERTAS,-337.49
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160007,AMORTACUM 4 PUF REDONDO O CUADRADO,-174.13
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160008,AMORTACUM MESA DE JUNTAS DE MEDIDAS 200X120 SOBRE LAMINADO Y PIES METALICOS,-154.85
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160009,AMORTACUM 2 CONJUNTO DE 4 MESAS DE MEDIDAS 120120,-413.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160010,AMORTACUM MESA DE 120X80 SOBRE LAMINADOS Y PIES METALICOS,-105.31
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160011,AMORTACUM 2 MESAS ALTAS DE MEDIDAS 120X80X105 SOBRE LAMINADO Y PIES METALICOS,-208.2
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160012,AMORTACUM 6 SILLONES GIRATORIOS EN ACERO CROMADO,-180.32
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160013,AMORTACUM 4 TABURETES REDONDOS EN ACERO CROMADO,-165.17
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160014,AMORTACUM 9 SILLAS DE OFICINA TAPIZADO TRANSPIRABLE EDICION OSCURA,-319.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160015,AMORTACUM 4 MESAS DE 120X80 SOBRE LAMINADO Y PIES METALICOS,-293.18
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2816,Amortización acumulada de mobiliario,28160016,AMORTACUM 4 SILLAS DE OFICINA TAPIZADO TRANSPIRABLE EDICION OSCURA,-165.17
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170001,AMORTACUMDE PORTATIL PREMIUM ULTRALIGERO P_RLH,-4160.52
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170002,AMORTACUM DE TELEFONO MOVIL GAMA MEDIA_RLH,-980.84
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170003,AMORTACUM DE PORTATIL GAMA BASICA PORTATIL_ILA,-499.72
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170004,AMORTACUM DE PORTATIL GAMA BASICA PORTATIL_MT,-499.75
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170005,AMORTACUM DE PORTATIL COMPACTO GAMA BASICA PORTATIL_LVP,-504.95
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170006,AMORTACUM DE MONITORES PANTALLA VISUAL ANCHA_RLH,-128.69
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170007,AMORTACUM DE MONITORES PANTALLA VISUAL ANCHA_LVP,-128.7
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170008,AMORTACUM DE MONITORES PANTALLA VISUAL ANCHA_AFLP,-128.69
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170009,AMORTACUM DE MONITOR_DBB,-135.82
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170010,AMORT ACUM DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_MS,-401.14
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170011,AMORT ACUM DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_DBB,-523.47
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170012, AMORT ACUM DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_KSC,-523.47
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170013, AMORT ACUM DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_AFLC,-523.47
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170014,AMORT ACUM DE PORTATIL LIGERO GAMA ECONOMICA PORTATIL_AGD,-523.47
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170015,AMORT ACUM DE PORTATIL GAMA BASICA PORTATIL_SAG,-401.0
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170016,AMORTACUM DE PORTATIL COMPACTO GAMA BASICA PORTATIL_NMF,-287.04
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170017,AMORT ACUM DE ORDENADOR SOBREMESA GAMA ALTA_RPL,-687.4
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170018,AMORT ACUM DE PORTATIL GAMA BASICA PORTATIL_MCL,-201.5
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170019,AMORT ACUM DE MONITOR PANTALLA VISUAL ANCHA_KSV,-25.08
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170020,AMORT ACUM ORDENADOR PORTATIL SENCILLO LVP,-66.54
+2025,Anual,ACTIVO,Activo No Corriente,II,Inmovilizado material,2,Instalaciones técnicas y otro inmovilizado material,2817,Amortización acumulada de equipos para procesos de información,28170021,AMORT ACUM TELEFONO MOVIL GAMA ALTA 512GB-YPT,-58.4
+2025,Anual,ACTIVO,Activo No Corriente,IV,Inversiones en empresas del grupo y asociadas a largo plazo,1,Instrumentos de patrimonio,2403,Participaciones a largo plazo en empresas del grupo,24030000,PARTICIPACIONES LP EMP GRUPO,5501.0
+2025,Anual,ACTIVO,Activo No Corriente,V,Inversiones financieras a largo plazo,5,Otros activos financieros,26,Fianzas y depósitos constituidos a largo plazo,26000001,FIANZA MAQUINA EXPENDEDORA OFICINA AVENIDA DEL CEDRO 12,83.0
+2025,Anual,ACTIVO,Activo No Corriente,V,Inversiones financieras a largo plazo,5,Otros activos financieros,26,Fianzas y depósitos constituidos a largo plazo,26000002,FIANZA OFICINA AVENIDA DEL CEDRO 12,3484.0
+2025,Anual,ACTIVO,Activo No Corriente,V,Inversiones financieras a largo plazo,5,Otros activos financieros,26,Fianzas y depósitos constituidos a largo plazo,26000003,FIANZA PARKING ESTACIONAMIENTO,247.0
+2025,Anual,ACTIVO,Activo No Corriente,V,Inversiones financieras a largo plazo,5,Otros activos financieros,26,Fianzas y depósitos constituidos a largo plazo,26000004,FIANZA AUTOMOVIL TODOCAMINO GAMA MEDIA,637.97
+2025,Anual,ACTIVO,Activo No Corriente,VI,Activos por impuesto diferido,5,Otros activos financieros,26,Fianzas y depósitos constituidos a largo plazo,Activos por impuesto diferido,,27977.81
+2025,Anual,ACTIVO,Activo No Corriente,VI,Activos por impuesto diferido,5,Otros activos financieros,474,Activos por impuesto diferido,47420000,DCHOSDEDUCY BONI PTES APLI,27977.81
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,3,Deudores varios,440,Deudores,44000000,DEUDORES EUROS,36673.0
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,3,Deudores varios,440,Deudores,44000005,COLIBRI TRADE,2379.58
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,3,Deudores varios,440,Deudores,44000006,VENTUS SOLUTIONS,-1074.86
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,3,Deudores varios,440,Deudores,44000007,TOPUPCRAFT,19339.38
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,3,Deudores varios,440,Deudores,44000008,SONORA COMUNICACIONES SA,5780.47
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,3,Deudores varios,440,Deudores,44000009,RECARGA GLOBAL SA,3757.26
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,3,Deudores varios,440,Deudores,44000010,RAPIDPAY,-1042.21
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,4,Personal,460,Anticipos de remuneraciones,46000002,CASTRO PEREZ DANIEL,1834.0
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,4,Personal,544,Créditos a corto plazo al personal,54400001, Créditos a corto plazo Carla Núñez Rivas,11002.0
+2025,Anual,ACTIVO,Activo Corriente,III,Deudores comerciales y otras cuentas a cobrar,5,Activos por impuesto corriente,4709,Hacienda Pública,47090000,HP DEUDORA DEVOLUC IMPUESTOS,14984.42
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000000,INV FNAS CP INSTRPATRIMONIO,641778.0
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000001,BTC,71585.02
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000002,INVERSION ORBIA- GESTORA GLOBAL RENTA VARIABLE SOSTENIBLE EUR 1035009490,14668.81
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000003,FONDO INVESRIÓN ORBIA-LK CRECIMIENTO FI 5260476455,104725.05
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000004,FONDO INVESRIÓN ORBIA-LK DINAMICO FI 9560205186,25671.0
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000005,FONDO INVERSIÓN ORBIA-LK OBJETIVO 2030 FI 9590184017,49509.0
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000006,FONDO INVERSIÓN-LABORAL ORBIA COMPROMISO PLUS FI 5470118738,11002.0
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000007,FONDO DE INVESRIÓN ORBIA-LK EQUILIBRADO FI 5480156072,121021.0
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,1,Instrumentos de patrimonio,540,Inversiones financieras a corto plazo en instrumentos de patrimonio,54000008,INVERSIÓN ORBIA-RENTA FIJA GLOBAL FONDO CLASE E EUR 0875009490,38506.63
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,5,Otros activos financieros,551,Cuenta corriente con socios y administradores,55100000,CUENTA SOCIO FERNANDO MORALES,237.13
+2025,Anual,ACTIVO,Activo Corriente,V,Inversiones financieras a corto plazo,5,Otros activos financieros,551,Cuenta corriente con socios y administradores,55100002,CUENTA SOCIO NEXUS PARTICIPACIONES,8141.0
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200002,BANCO NORTIA CC 705818,189.56
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200003,MERIDIA 518554,586.73
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200006,VENDIA 106454,237135.78
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200011,ALTAVIA,738268.23
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200012,USUARIO CENTRAL 698670,61437.85
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200014,NEXCARD,17839.07
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200015,PAYWELL,66240.64
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200016,ORBIA LABORAL,85104.59
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,57200019,CUENTA PRIMEVA ONE EMPRESAS,40729.57
+2025,Anual,ACTIVO,Activo Corriente,VII,Efectivo y otros activos liquidos equivalentes,1,Tesorería,572,Bancos,Total Activo A+B,,2551146.5
+2025,Anual,PASIVO,Patrimonio Neto,I,Capital,1,Capital escriturado,100,Capital social,10000000,CAPITAL SOCIAL,778951.0
+2025,Anual,PASIVO,Patrimonio Neto,II,Prima de emisión,1,Prima de emisión,110,Prima de emisión o asunción,11000000,PRIMA DE EMISIÓN O ASUNCIÓN,680864.0
+2025,Anual,PASIVO,Patrimonio Neto,III,Reservas,1,Legal y estatutarias,112,Reserva legal,11200000,RESERVA LEGAL,73472.66
+2025,Anual,PASIVO,Patrimonio Neto,III,Reservas,2,Otras reservas,113,Reservas voluntarias,11300000,RESERVAS VOLUNTARIAS,614546.06
+2025,Anual,PASIVO,Patrimonio Neto,VII,Resultado del ejercicio,1,Resultado del ejercicio,129,Resultados del ejercicio,12900000,RESULTADO DEL EJERCICIO,193811.69
+2025,Anual,PASIVO,Pasivo No Corriente,II,Deudas a largo plazo,2,Deudas a largo plazo con entidades de crédito,170,Deudas a largo plazo con entidades de crédito,17000001,PRÉSTAMO MERIDIA 2020,18874.39
+2025,Anual,PASIVO,Pasivo Corriente,III,Deudas a corto plazo,2,Deudas a corto plazo con entidades de crédito,520,Deudas a corto plazo con entidades de crédito,52000002,PRESTAMO MERIDIA CP,27903.36
+2025,Anual,PASIVO,Pasivo Corriente,III,Deudas a corto plazo,2,Deudas a corto plazo con entidades de crédito,520,Deudas a corto plazo con entidades de crédito,52000003,ALTAVIA 3493,132.5
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000003,BRISALINK COMERCIO SL,488.45
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000019,NADIA CORTES VALLE,-1834.0
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000020,NEXAWEB DUBLIN LIMITED,700.95
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000041,ROTABIZ COMPANY SL,-0.2
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000080,DELTA ASESORES,1405.57
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000095,SKYDATA REGION LIMITED,855.84
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000141,LOGISTICA NORTE SL,234.5
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000151,TIENDA AUTOMATICA SLU,355.79
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000153,ASESORIA FINANCIERA CENTRAL,6395.24
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000156,MARCOS OLIVARES PEÑA,-193.0
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000197,MARKETINSIGHT ANALYTICS,-0.02
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000223,GLOBALTRADE CORP,-1364.64
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000241,DATASYNTH LLC,-0.02
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000276,OFICINA REGIONAL ATLANTICO SA,2750.53
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000304,PAYFLEX SOLUCIONES SA,226.47
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000332,ARENAL CONSULTING SL,-0.02
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000335,TELCO PRIME COMUNICACIONES SLU,0.02
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000346,Diego Fernández Ruiz,917.0
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,3,Acreedores varios,41,Acreedores varios,41000349,SECUREPOINT SISTEMAS SL,11071.3
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,4,personal (remuneraciones pendientes de pago),465,Remuneraciones pendientes de pago,46500003,MORALES DIAZ FERNANDO ANTONIO,-6983.71
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,6,Otras deudas con las Administraciones Públicas,4750,Hacienda Pública,47500000,HACIENDA PÚBLICA ACREEDORA PO,60818.41
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,6,Otras deudas con las Administraciones Públicas,4751,Hacienda Pública,47510000,HP ACREED RETEN PROFESIONAL,1002.4
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,6,Otras deudas con las Administraciones Públicas,4751,Hacienda Pública,47510001,HP ACREED RETEN TRABAJADOR,62189.84
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,6,Otras deudas con las Administraciones Públicas,476,Organismos de la Seguridad Social,47600000,ORGANIDE LA SSSSACREEDORES,23553.7
+2025,Anual,PASIVO,Pasivo Corriente,V,Acreedores comerciales y otras cuentas a pagar,6,Otras deudas con las Administraciones Públicas,476,Organismos de la Seguridad Social,Total Patrimonio Neto y Pasivo,,2551146.5
