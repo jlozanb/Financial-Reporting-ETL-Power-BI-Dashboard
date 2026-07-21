@@ -1,0 +1,80 @@
+Año,ID Grupo,Grupo,ID Subgrupo,SubGrupo,ID Cuenta,Cuenta,Valores,Abs Valores
+2023,1,Importe neto de la cifra de negocios,b,Prestaciones de servicios,71100000,INGRESOS POR SERVICIOS DE CONSULTORIA,2014707.09,2014707.09
+2023,1,Importe neto de la cifra de negocios,b,Prestaciones de servicios,71100001,INGRESOS POR LICENCIAS DE PLATAFORMA,3633.01,3633.01
+2023,2,Variación de existencias de productos terminados y en curso de fabr,b,Prestaciones de servicios,Variación de existencias de productos terminados y en curso de fabricación,,16348.55,16348.55
+2023,2,Variación de existencias de productos terminados y en curso de fabr,b,Prestaciones de servicios,79310000,REVERSION VARIACION PROD TERM Y CUR FAB,16348.55,16348.55
+2023,4,Aprovisionamientos,c,Trabajos realizados por otras empresas,61100000,TRABAJOS SUBCONTRATADOS DIVERSOS,-89666.78,89666.78
+2023,4,Aprovisionamientos,c,Trabajos realizados por otras empresas,61100001,COMPASS FIELDING NETWORK SERVICES,-820867.0,820867.0
+2023,4,Aprovisionamientos,c,Trabajos realizados por otras empresas,61100002,ESTUARY PAYMENT SOLUTIONS,-13866.0,13866.0
+2023,6,Gastos de personal,a,Sueldos salarios y asimilados,64010000,SUELDOS Y SALARIOS,-327538.25,327538.25
+2023,6,Gastos de personal,b,Cargos sociales,64210000,SEGURIDAD SOCIAL A CARGO DE LA EMPRESA,-64019.73,64019.73
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62100000,ARRENDAMIENTOS Y CANONES,-2818.84,2818.84
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62100001,ALQUILER OFICINA CALLE ALMENDROS,-6220.88,6220.88
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62100002,ARRENDAMIENTO PLAZA APARCAMIENTO,-534.61,534.61
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62300000,SERVICIOS PROFESIONALES INDEPENDIENTES,-313960.2,313960.2
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62500000,PRIMAS DE SEGUROS,-306.18,306.18
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62500001,SEGURO DE VIDA BANCO SOLVIA,-583.21,583.21
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600000,SERVICIOS BANCARIOS Y SIMILARES,-3.16,3.16
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600001,Servicios bancarios BANCO SOLVIA,-461.71,461.71
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600003,Servicios bancarios BANCO AURIFERA,-3.65,3.65
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600004,Servicios bancarios COOPERATIVA ROBLEDO,-208.98,208.98
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600005,Servicios bancarios BANCO VENTISCA,-25.52,25.52
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600006,Servicios bancarios CRYPTOBRIDGE EXCHANGE,-9671.53,9671.53
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600008,SERVICIOS BANCARIOS USUARIO NUCLEO,-437.41,437.41
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600009,PAGOFLEX APP,-481.15,481.15
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62600010,Servicios bancarios CAJA MERIDIANA,-447.13,447.13
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62700000,PUBLICIDAD PROPAGANDA Y RELACIONES PUBLICAS,-32416.63,32416.63
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62800000,SUMINISTROS,-1701.02,1701.02
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62900000,OTROS SERVICIOS,-5151.67,5151.67
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62900001,OFICINA SEVILLA RONDA,-12.39,12.39
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62900002,GASTOS VIAJE DMC,-11955.76,11955.76
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62900003,OFICINA SEVILLA ALAMEDA,-5491.87,5491.87
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62900004,GASTOS VIAJE JFT,-2332.83,2332.83
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62900006,SERVICIOS TELEFONICOS,-12247.36,12247.36
+2023,7,Otros gastos de explotación,a,Servicios exteriores,62900007,RECLASIFICACION IVA SOPORTADO,-74893.6,74893.6
+2023,7,Otros gastos de explotación,b,Tributos,63110000,OTROS TRIBUTOS,-413.46,413.46
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68010001,DOTAMORT LICENCIA SOFTWARE DE GESTION,-45203.56,45203.56
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210001,DOTAMORT4 SILLONES RECEPCION,-85.34,85.34
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210002,DOTAMORT4 MESAS AUXILIARES ROBLE,-67.56,67.56
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210003,DOTAMORT3 CAJONERAS METALICAS,-51.2,51.2
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210004,DOTAMORT3 ESTANTERIAS MODULARES,-48.36,48.36
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210005,DOTAMORT5 ARCHIVADORES NORDICOS,-42.67,42.67
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210006,DOTAMORT2 ARMARIOS COMPACTOS,-39.11,39.11
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210007,DOTAMORT3 PUFS TRIANGULARES,-34.14,34.14
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210008,DOTAMORT MESA REUNIONES OVALADA 220X110,-32.0,32.0
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210009,DOTAMORT2 CONJUNTO 3 MESAS PLEGABLES 100X100,-29.87,29.87
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210010,DOTAMORT MESA TRABAJO 110X70 SOBRE MADERA CLARA,-28.45,28.45
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210011,DOTAMORT3 MESAS ALTAS BARRA 130X70,-26.31,26.31
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210012,DOTAMORT5 TABURETES INDUSTRIALES,-24.89,24.89
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210013,DOTAMORT3 BUTACAS LECTURA TAPIZADAS,-24.18,24.18
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210014,DOTAMORT8 SILLAS COMEDOR NORDICAS,-22.76,22.76
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210015,DOTAMORT3 MESAS TRABAJO 100X70 ROBLE,-21.33,21.33
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68210016,DOTAMORT3 SILLAS AUXILIARES TAPIZADAS,-20.62,20.62
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220001,DOTAMORT TERRABOOK PRO PORTATIL_DMC,-220.46,220.46
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220002,DOTAMORT NIMBUSPAD TABLET_DMC,-110.23,110.23
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220003,DOTAMORT VELOCE NOTEBOOK PORTATIL_ORL,-92.45,92.45
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220004,DOTAMORT VELOCE NOTEBOOK PORTATIL_STF,-92.45,92.45
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220005,DOTAMORT ORIONBOOK 14 PORTATIL_QVN,-88.18,88.18
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220006,DOTAMORT MONITOR VISTACLEAR 27_ORL,-48.36,48.36
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220007,DOTAMORT MONITOR VISTACLEAR 27_STF,-48.36,48.36
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220008,DOTAMORT MONITOR VISTACLEAR 27_BHK,-48.36,48.36
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220009,DOTAMORT MONITOR VISTACLEAR 27_NLM,-44.8,44.8
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220010,DOTAMORT ARCBOOK 15 PORTATIL_TSV,-100.98,100.98
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220011,DOTAMORT ARCBOOK 15 PORTATIL_NLM,-100.98,100.98
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220012,DOTAMORT ARCBOOK 15 PORTATIL_KVR,-100.98,100.98
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220013,DOTAMORT ARCBOOK 15 PORTATIL_BHK,-100.98,100.98
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220014,DOTAMORT ARCBOOK 15 PORTATIL_GMD,-100.98,100.98
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220015,DOTAMORT VELOCE NOTEBOOK PORTATIL_SFR,-81.07,81.07
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220016,DOTAMORT ORIONBOOK 14 PORTATIL_PMT,-74.67,74.67
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220017,DOTAMORT NUCLEUS I7 ORDENADOR SOBREMESA_DMC,-186.32,186.32
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220018,DOTAMORT VELOCE NOTEBOOK PORTATIL_LCB,-65.43,65.43
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220019,DOTAMORT MONITOR VISTACLEAR 24_KSN,-39.11,39.11
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220020,DOTAMORT ORIONBOOK 14 PORTATIL_LPV,-42.67,42.67
+2023,8,Amortización del inmovilizado,a,Amortización del inmovilizado,68220021,DOTAMORT PULSAR PHONE X2 256GB_YTR,-42.67,42.67
+2023,13,Otros resultados,a,Ingresos excepcionales,77810000,INGRESOS EXCEPCIONALES,12989.72,12989.72
+2023,13,Otros resultados,b,Gastos excepcionales,67810001,SANCIONES ADMINISTRATIVAS,-72.34,72.34
+2023,15,Gastos financieros,b,Por deudas con terceros,66240001,PRESTAMO BANCO SOLVIA,-378.54,378.54
+2023,15,Gastos financieros,b,Por deudas con terceros,66900002,PERDIDAS OPERACIONES CON USUARIOS,-24043.38,24043.38
+2023,16,Variación de valor razonable en instrumentos financieros,a,Cartera de negociación y otros,66310000,PERDIDAS DE CARTERA DE NEGOCIACION,-80.73,80.73
+2023,18,Deterioro y resultado por enajenaciones de instrumentos financiero,b,Resultados por enajenaciones y otras,76610000,BENEFICIO VALORES REPRESENTATIVOS DEUDA LP,8275.19,8275.19
+2023,19,Impuestos sobre beneficios,a,Impuestos sobre beneficios,63010000,IMPUESTO CORRIENTE,-34822.66,34822.66
